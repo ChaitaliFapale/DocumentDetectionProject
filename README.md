@@ -1,4 +1,4 @@
-﻿# Boundary_Detection_Project
+﻿# Document_Detection_Project
 
 Document Boundary Detection Using DETR + OpenCV
 1. Project Overview
